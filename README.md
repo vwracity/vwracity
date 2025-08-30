@@ -1,3 +1,7 @@
+<img src="https://i.imgur.com/tyAHGO4.jpeg"
+    >
+
+---
 # 👩🏻‍💻 João Vitor Fortunato
 
 **`Estudante de Sistemas de Informação na Universidade Federal de Itajubá`**
